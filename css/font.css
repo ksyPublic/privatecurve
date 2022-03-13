@@ -1,0 +1,89 @@
+
+@font-face {
+    font-family: 'mont';
+    src: url('montserrat-light-webfont.eot'),
+    url("../font/montserrat-light-webfont.woff2") format("woff2"),
+    url("../font/montserrat-light-webfont.woff") format("woff"),
+    url("../font/Montserrat-Light.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mont';
+    src: url('montserrat-medium-webfont.eot'),
+    url("../font/montserrat-medium-webfont.woff2") format("woff2"),
+    url("../font/montserrat-medium-webfont.woff") format("woff"),
+    url("../font/Montserrat-Medium.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'mont';
+    src: url('montserrat-regular-webfont.eot'),
+    url("../font/montserrat-regular-webfont.woff2") format("woff2"),
+    url("../font/montserrat-regular-webfont.woff") format("woff"),
+    url("../font/Montserrat-Regular.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mont';
+    src: url('montserrat-semibold-webfont.eot'),
+    url("../font/montserrat-semibold-webfont.woff2") format("woff2"),
+    url("../font/montserrat-semibold-webfont.woff") format("woff"),
+    url("../font/Montserrat-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mont';
+    src: url('montserrat-bold-webfont.eot'),
+    url("../font/montserrat-bold-webfont.woff2") format("woff2"),
+    url("../font/montserrat-bold-webfont.woff") format("woff"),
+    url("../font/Montserrat-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "notokr";
+    src: url("../font/notokr-regular.eot");
+    src: url("../font/notokr-regular.eot?#iefix") format("embedded-opentype"),
+      url("../font/notokr-regular.woff2") format("woff2"),
+      url("../font/notokr-regular.woff") format("woff"),
+      url("../font/notokr-regular.ttf") format("truetype"),
+      url("../font/notokr-regular.svg#notokr-regular") format("svg");
+    font-weight: 100;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "notokr";
+    src: url("../font/notokr-medium.eot");
+    src: url("../font/notokr-medium.eot?#iefix") format("embedded-opentype"),
+      url("../font/notokr-medium.woff2") format("woff2"),
+      url("../font/notokr-medium.woff") format("woff"),
+      url("../font/notokr-medium.ttf") format("truetype"),
+      url("../font/notokr-medium.svg#notokr-medium") format("svg");
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "notokr";
+    src: url("../font/notokr-bold.eot");
+    src: url("../font/notokr-bold.eot?#iefix") format("embedded-opentype"),
+      url("../font/notokr-bold.woff2") format("woff2"),
+      url("../font/notokr-bold.woff") format("woff"),
+      url("../font/notokr-bold.ttf") format("truetype"),
+      url("../font/notokr-bold.svg#notokr-bold") format("svg");
+    font-weight: 700;
+    font-weight: bold;
+    font-style: normal;
+  }
